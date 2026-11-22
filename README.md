@@ -4,6 +4,8 @@ Relying on external SaaS monitoring platforms introduces external network depend
 A lightweight, self-hosted daemon built using only Python's standard library (stdlib) can probe endpoints locally or across private tunnel interfaces, track state transitions to prevent alert fatigue, 
 and emit real-time webhook alerts when a service degrades or goes down.
 
+<br />
+
 > Blog artcile published by [App-Generator](https://app-generator.dev/)
 
 - Architecture & Alerting Logic
