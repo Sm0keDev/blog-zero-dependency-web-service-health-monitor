@@ -9,7 +9,7 @@ and emit real-time webhook alerts when a service degrades or goes down.
 > Blog artcile published by [App-Generator](https://app-generator.dev/)
 
 - Architecture & Alerting Logic
-- Implementation (./health_monitor.py)
+- Implementation [health_monitor.py](./health_monitor.py)
 - Deploying as a Hardened systemd Service
 
 <br />
